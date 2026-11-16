@@ -281,4 +281,18 @@ flowchart TD
 
 ## 许可
 
-文档内容采用 [CC BY 4.0](LICENSE) 许可。转载、摘编、翻译均可，**需保留出处链接**。
+文档内容采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可，
+官方法律文本见仓库根目录 [`LICENSE`](LICENSE)。
+转载、摘编、翻译、商业使用均可，**需保留出处链接**。
+
+建议的署名写法：
+
+```
+本文内容来自《漫画阅读器图源：判断、分类与排障》
+https://github.com/designshidai/yiciyuanapp
+原文在线版：https://yiciyuanapp.site/guide.html
+许可协议：CC BY 4.0
+```
+
+本许可仅覆盖本仓库内的文字内容，**不涵盖任何图源地址**（本仓库不收录、不提供），
+也不涵盖文中提及的第三方商标与产品名称。
